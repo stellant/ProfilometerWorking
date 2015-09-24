@@ -1,0 +1,10 @@
+c:\users\th303898\documents\visual studio 2010\Projects\Profilometer_Keyence_WCF\Profilometer_Keyence_WCF\bin\Profilometer_Keyence_WCF.dll
+c:\users\th303898\documents\visual studio 2010\Projects\Profilometer_Keyence_WCF\Profilometer_Keyence_WCF\bin\Profilometer_Keyence_WCF.pdb
+c:\users\th303898\documents\visual studio 2010\Projects\Profilometer_Keyence_WCF\Profilometer_Keyence_WCF\obj\Debug\Profilometer_Keyence_WCF.dll
+c:\users\th303898\documents\visual studio 2010\Projects\Profilometer_Keyence_WCF\Profilometer_Keyence_WCF\obj\Debug\Profilometer_Keyence_WCF.pdb
+C:\Users\TH303898\Documents\Visual Studio 2010\Projects\Profilometer_Keyence_WCF\Profilometer_Keyence_WCF\obj\Debug\Profilometer_Keyence_WCF.csprojResolveAssemblyReference.cache
+D:\Flextronics Softwares and Webservices\Flextronics\Profilometer_Keyence\Webservice\Profilometer_Keyence_WCF\Profilometer_Keyence_WCF\bin\Profilometer_Keyence_WCF.dll
+D:\Flextronics Softwares and Webservices\Flextronics\Profilometer_Keyence\Webservice\Profilometer_Keyence_WCF\Profilometer_Keyence_WCF\bin\Profilometer_Keyence_WCF.pdb
+D:\Flextronics Softwares and Webservices\Flextronics\Profilometer_Keyence\Webservice\Profilometer_Keyence_WCF\Profilometer_Keyence_WCF\obj\Debug\Profilometer_Keyence_WCF.csprojResolveAssemblyReference.cache
+D:\Flextronics Softwares and Webservices\Flextronics\Profilometer_Keyence\Webservice\Profilometer_Keyence_WCF\Profilometer_Keyence_WCF\obj\Debug\Profilometer_Keyence_WCF.dll
+D:\Flextronics Softwares and Webservices\Flextronics\Profilometer_Keyence\Webservice\Profilometer_Keyence_WCF\Profilometer_Keyence_WCF\obj\Debug\Profilometer_Keyence_WCF.pdb
